@@ -294,9 +294,9 @@ color: oklch(74% 0.238 322.16);
 .expressStyl {
   width: 8rem;
   height: 2rem;
-  padding: 1rem;
+  padding: 1rem;                                                                                                                                                                                                                                                                                                                                                                               
 }
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 .vercelIcon {
   background-color: aliceblue;
 }
@@ -320,7 +320,7 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   border: 1px solid yellow;
   /* width: 100rem; */
-  height: 50rem;
+  height: 55rem;
   flex-wrap: wrap;
   justify-content: space-between;
 
@@ -328,7 +328,7 @@ color: oklch(74% 0.238 322.16);
 
 .connectBoxes {
   /* border: 1px solid ghostwhite; */
-  width: 10rem;
+  width: 5rem;
   /* height: 6rem; */
   display: flex;
   flex-direction: row;
@@ -360,7 +360,7 @@ color: oklch(74% 0.238 322.16);
   flex-direction: column;
   border: 1px solid white;
   width: 38rem;
-  height: 13rem;
+  height: 10rem;
 }
 
 .connectext {
