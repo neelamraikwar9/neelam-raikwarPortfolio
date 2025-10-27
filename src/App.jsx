@@ -25,7 +25,7 @@ function App() {
               Projects
             </a>
           </li>
-          <li className="liStyl">
+          <li className="liStyl tecStack">
             <a href="#techStack" className="liTText">
               Tech Stack
             </a>
@@ -73,7 +73,7 @@ function App() {
                 className="img"
               />
               <div className="projInfo">
-                <h1>Book Readers</h1>
+                <h2>Book Readers</h2>
                 <p className="aboutProj">
                   A modern e-commerce web for buying books with the feature add to cart, wishlist and detail page, to filter books by categories, price, ratings and sorting option with price. Created with React.js, Bootstrap, MongoDB, Express, Node.js
                 </p>
@@ -107,7 +107,7 @@ function App() {
                 className="img"
               />
               <div className="projInfo">
-                <h1>Anvaya CRM Dashboard</h1>
+                <h2>Anvaya CRM Dashboard</h2>
                 <p className="aboutProj">
                    A CRM app to manage Leads with Sales Agent. It provide a best user performance. It has a feature to track leads by statuses and it provides add new lead and sales agents with the edit leads option and the comments.  
                 </p>
@@ -143,18 +143,18 @@ function App() {
 
         <div className="tackStackCon">
           <div className="iconCon">
-            <img src="/public/icons/react.png" alt="React" className="icon" />
+            <img src="/icons/react.png" alt="React" className="icon" />
             <p className="iconName">React</p>
           </div>
 
           <div className="iconCon">
-            <img src="/public/icons/js.svg" alt="JavaScript" className="icon" />
+            <img src="/icons/js.svg" alt="JavaScript" className="icon" />
             <p className="iconName">JavaScript</p>
           </div>
 
           <div className="iconCon">
             <img
-              src="/public/icons/html5.png"
+              src="/icons/html5.png"
               alt="html5.png"
               className="icon"
             />
@@ -162,13 +162,13 @@ function App() {
           </div>
 
           <div className="iconCon">
-            <img src="/public/icons/css3.png" alt="CSS3" className="icon" />
+            <img src="/icons/css3.png" alt="CSS3" className="icon" />
             <p className="iconName">CSS3</p>
           </div>
 
           <div className="iconCon">
             <img
-              src="/public/icons/nodejs.png"
+              src="/icons/nodejs.png"
               alt="Node.js"
               className="icon"
             />
@@ -177,7 +177,7 @@ function App() {
 
           <div className="iconCon">
             <img
-              src="/public/icons/express.png"
+              src="/icons/express.png"
               alt="Express"
               className="icon expressIcon"
             />
@@ -186,7 +186,7 @@ function App() {
 
           <div className="iconCon">
             <img
-              src="/public/icons/mongodb.png"
+              src="/icons/mongodb.png"
               alt="MongoDB"
               className="icon"
               style={{ width: "2rem" }}
@@ -195,13 +195,13 @@ function App() {
           </div>
 
           <div className="iconCon">
-            <img src="/public/icons/git.png" alt="GIT" className="icon" />
+            <img src="/icons/git.png" alt="GIT" className="icon" />
             <p className="iconName">GIT</p>
           </div>
 
           <div className="iconCon">
             <img
-              src="/public/icons/image.png"
+              src="/icons/image.png"
               alt="GitHub"
               className="icon gitIcon"
             />
@@ -210,7 +210,7 @@ function App() {
 
           <div className="iconCon">
             <img
-              src="/public/icons/bootstrap5.png"
+              src="/icons/bootstrap5.png"
               alt="Bootstrap"
               className="icon"
             />
@@ -219,7 +219,7 @@ function App() {
 
           <div className="iconCon vsIcon">
             <img
-              src="/public/icons/vscode.svg"
+              src="/icons/vscode.svg"
               alt="VS Code"
               className="icon"
             />
@@ -228,7 +228,7 @@ function App() {
 
           <div className="iconCon">
             <img
-              src="/public/icons/mongoose.png"
+              src="/icons/mongoose.png"
               alt="Mongoose"
               className="icon"
             />
@@ -237,7 +237,7 @@ function App() {
 
           <div className="iconCon">
             <img
-              src="/public/icons/vercel.png"
+              src="/icons/vercel.png"
               alt="Vercel"
               className="icon vercelIcon"
               style={{ height: "3rem" }}
@@ -247,7 +247,7 @@ function App() {
 
           <div className="iconCon">
             <img
-              src="/public/icons/postman.png"
+              src="/icons/postman.png"
               alt="Postman"
               className="icon"
             />
@@ -266,7 +266,7 @@ function App() {
 
         <div className="connectContainer">
           <div className="connectBoxes">
-          <img src="/public/socialIcons/email2.png" alt="Email Box" style={{width: '4rem', height: '4rem', margin: '2rem'}}/>
+          <img src="/socialIcons/email2.png" alt="Email Box" style={{width: '4rem', height: '4rem', margin: '2rem'}}/>
             <h1>Email</h1>
           </div>
           <div>
