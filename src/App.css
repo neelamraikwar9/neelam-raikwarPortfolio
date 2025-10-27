@@ -123,7 +123,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .name {
-  font-size: 4rem;
+  font-size: 2.9rem;
   font-family: 'Times New Roman', Times, serif;
   color: oklch(66.7% 0.295 322.15);
   /* color: oklch(83.3% 0.145 321.434) */
@@ -131,7 +131,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .role {
-  font-size: 5rem;
+  font-size: 4rem;
   margin: 0;
   /* font-family: 'Times New Roman', Times, serif; */
 }
@@ -186,7 +186,7 @@ color: oklch(74% 0.238 322.16);
 .projectBox {
   border: 1px solid rgb(58, 58, 85);
   ;
-  width: 30rem;
+  width: 20rem;
   /* height: 68rem;  */
   border-radius: 1rem;
 }
@@ -195,8 +195,8 @@ color: oklch(74% 0.238 322.16);
 
 
 .img {
-  width: 30rem;
-  height: 20rem;
+  width: 20rem;
+  height: 10rem;
   border-radius: 1rem;
 }
 
@@ -204,8 +204,8 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   /* flex-wrap:wrap; */
   gap: 0.9rem;
-  /* border: 1px solid greenyellow; */
-  width: 25rem;
+  border: 1px solid greenyellow;
+  width: 15rem;
   flex-wrap: wrap;
   /* height: 10rem; */
 }
@@ -232,17 +232,27 @@ color: oklch(74% 0.238 322.16);
   padding: 2rem 0rem;
   display: flex;
   gap: 3rem;
+  border: 1px solid greenyellow;
+  width: 17rem
+
 }
 
 .btn {
-  padding: 1rem;
+  /* padding: 1rem; */
   border-radius: 0.5rem;
   border-color: none;
   font-size: large;
   font-weight: bolder;
-  background-color: rgb(47, 47, 79);
+  background-color: rgb(20, 20, 23);
   border-color: rgb(58, 58, 85);
+  border: 1px solid greenyellow;
+  width: 18rem;
+
 }
+
+/* .demo {
+  color: whitesmoke;
+} */
 
 .btn:hover {
   background-color:
@@ -296,7 +306,7 @@ color: oklch(74% 0.238 322.16);
 .iconName {
   /* border: 1px solid green;  */
   margin-top: 0.3rem;
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: 400;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -331,7 +341,7 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   border: 1px solid yellow;
   /* width: 100rem; */
-  height: 55rem;
+  height: 40rem;
   flex-wrap: wrap;
   justify-content: space-between;
   /* border: 1px solid ghostwhite; */
@@ -342,12 +352,21 @@ color: oklch(74% 0.238 322.16);
 .connectBoxes {
   border: 1px solid ghostwhite;
   width: 5rem;
-  /* height: 6rem; */
+  height: 6rem;
   display: flex;
   flex-direction: row;
   /* gap:2rem; */
 
   /* padding-right: 20rem; */
+}
+
+
+.connHeadText {
+  font-size: 2rem;
+  margin-top: 1rem;
+  border: 1px solid ghostwhite;
+  padding-top: 2rem;
+
 }
 
 
@@ -372,8 +391,8 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   flex-direction: column;
   border: 1px solid white;
-  width: 30rem;
-  height: 12rem;
+  width: 25rem;
+  height: 10rem;
 }
 
 .connectext {
@@ -382,7 +401,7 @@ color: oklch(74% 0.238 322.16);
   /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    color:rgb(220, 232, 239);
-   font-size: 1.9rem;
+   font-size: 1.3rem;
   border: 1px solid white;
 
 

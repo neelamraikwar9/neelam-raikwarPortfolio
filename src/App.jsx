@@ -92,7 +92,7 @@ function App() {
                     <i class="bi bi-eye"></i>Demo
                   </a>
                   </button>
-                  <button className="btn">
+                  <button className="btn" style={{width: 'rem'}}>
                   <a href="https://github.com/neelamraikwar9/myBookLoversShop" target="_blank">
                     <i class="bi bi-code-slash"></i></a>Code
                   </button>
@@ -267,7 +267,7 @@ function App() {
         <div className="connectContainer">
           <div className="connectBoxes">
           <img src="/socialIcons/email2.png" alt="Email Box" style={{width: '4rem', height: '4rem', margin: '2rem'}}/>
-            <h2>Email</h2>
+            <h2 className="connHeadText">Email</h2>
           </div>
           <div>
               <h3 className="connectext"><a href="neelam.raikwar.234303@gmail.com">neelam.raikwar.234303@gmail.com</a></h3>
@@ -289,7 +289,7 @@ function App() {
                 }}
               ></i>
               </a>
-              <h2>GitHub</h2>
+              <h2 className="connHeadText">GitHub</h2>
             </div>
             <div>
               <h3 className="connectext">Follow on GitHub</h3>
@@ -313,12 +313,13 @@ function App() {
               }}
             ></i>
             </a>
-            <h3>LinkedIn</h3>
+            <h2 className="connHeadText">LinkedIn</h2>
             </div>
             <div>
               <h4 className="connectext">Connect on LinkedIn</h4>
             </div>
-          </div>
+          </div>                          
+
 
 
 
@@ -342,7 +343,7 @@ function App() {
             ></i>
             </a>
             
-            <h2>Twitter</h2>
+            <h2 className="connHeadText">Twitter</h2>
           </div>
           <h3 className="connectext">Follow on Twitter</h3>
           </div>
