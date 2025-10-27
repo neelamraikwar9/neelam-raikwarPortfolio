@@ -143,7 +143,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .about {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin: 0.9rem 0rem;
 }
 
@@ -156,7 +156,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .button {
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: 0.9rem;
   background-color: oklch(74% 0.238 322.16);
   font-size: large;
@@ -425,9 +425,11 @@ color: oklch(74% 0.238 322.16);
 hr {
   margin-bottom: 7rem;
   margin-top: 2rem;
-  width:50rem;
+  width:10rem;
   padding-left: 0;
   margin-left: 0;
   border-color:  oklch(74% 0.238 322.16);
+  height: 0.1rem;
+  background-color: oklch(74% 0.238 322.16);
 
 }

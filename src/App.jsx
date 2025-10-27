@@ -44,6 +44,7 @@ function App() {
           <h1 className="role">
             The <span>Full Stack Developer</span>
           </h1>
+          <hr  style={{ marginBottom: '0rem', padding: '0rem'}}/>
           <p className="about">
             {" "}
             An enthusiastic full-stack developer creating effective digital
