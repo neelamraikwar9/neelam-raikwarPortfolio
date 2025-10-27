@@ -174,7 +174,7 @@ color: oklch(74% 0.238 322.16);
 .projectCont {
   border: 1px solid red;
   margin-top: 4rem;
-  width: 70rem;
+  width: 66rem;
   /* height: 80rem; */
   display: flex;
   justify-content: space-around;
@@ -258,17 +258,17 @@ color: oklch(74% 0.238 322.16);
 
 .tackStackCon {
   display: flex;
-  /* border: 1px solid red; */
-  width: 80rem;
+  border: 1px solid red;
+  width: 66rem;
   flex-wrap: wrap;
   padding: 0;
 
 }
 
 .tackStackCon {
-  padding: 2rem 0rem;
+  padding:  0rem;
   /* border: 1px solid red; */
-  height: 40rem;
+  height: 30rem;
   padding-bottom: 15rem;
 }
 

@@ -267,10 +267,10 @@ function App() {
         <div className="connectContainer">
           <div className="connectBoxes">
           <img src="/socialIcons/email2.png" alt="Email Box" style={{width: '4rem', height: '4rem', margin: '2rem'}}/>
-            <h1>Email</h1>
+            <h2>Email</h2>
           </div>
           <div>
-              <h2 className="connectext"><a href="neelam.raikwar.234303@gmail.com">neelam.raikwar.234303@gmail.com</a></h2>
+              <h3 className="connectext"><a href="neelam.raikwar.234303@gmail.com">neelam.raikwar.234303@gmail.com</a></h3>
             </div>
           </div>
 
@@ -289,7 +289,7 @@ function App() {
                 }}
               ></i>
               </a>
-              <h1>GitHub</h1>
+              <h2>GitHub</h2>
             </div>
             <div>
               <h3 className="connectext">Follow on GitHub</h3>
@@ -313,10 +313,10 @@ function App() {
               }}
             ></i>
             </a>
-            <h1>LinkedIn</h1>
+            <h3>LinkedIn</h3>
             </div>
             <div>
-              <h3 className="connectext">Connect on LinkedIn</h3>
+              <h4 className="connectext">Connect on LinkedIn</h4>
             </div>
           </div>
 
@@ -342,9 +342,9 @@ function App() {
             ></i>
             </a>
             
-            <h1>Twitter</h1>
+            <h2>Twitter</h2>
           </div>
-          <h2 className="connectext">Follow on Twitter</h2>
+          <h3 className="connectext">Follow on Twitter</h3>
           </div>
         </div>
         </section>
