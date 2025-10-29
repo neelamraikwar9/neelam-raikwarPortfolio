@@ -123,7 +123,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .name {
-  font-size: 2.9rem;
+  font-size: 2.5rem;
   font-family: 'Times New Roman', Times, serif;
   color: oklch(66.7% 0.295 322.15);
   /* color: oklch(83.3% 0.145 321.434) */
@@ -131,7 +131,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .role {
-  font-size: 4rem;
+  font-size: 3rem;
   margin: 0;
   /* font-family: 'Times New Roman', Times, serif; */
 }
@@ -159,7 +159,7 @@ color: oklch(74% 0.238 322.16);
   padding: 1rem;
   border-radius: 0.9rem;
   background-color: oklch(74% 0.238 322.16);
-  font-size: large;
+  font-size: 1rem;
   font-weight: bold;
 }
 
@@ -205,7 +205,7 @@ color: oklch(74% 0.238 322.16);
   /* flex-wrap:wrap; */
   gap: 0.9rem;
   border: 1px solid greenyellow;
-  width: 15rem;
+  width: 17rem;
   flex-wrap: wrap;
   /* height: 10rem; */
 }
@@ -225,7 +225,7 @@ color: oklch(74% 0.238 322.16);
 
 
 .projInfo {
-  padding: 0rem 2.9rem;
+  padding: 0rem 1rem;
 }
 
 .demoCodeBtns {
@@ -341,7 +341,7 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   border: 1px solid yellow;
   /* width: 100rem; */
-  height: 40rem;
+  height: 25rem;
   flex-wrap: wrap;
   justify-content: space-between;
   /* border: 1px solid ghostwhite; */
@@ -390,9 +390,9 @@ color: oklch(74% 0.238 322.16);
 .connectContainer {
   display: flex;
   flex-direction: column;
-  border: 1px solid white;
+  border: 1px solid rgb(174, 22, 22);
   width: 25rem;
-  height: 10rem;
+  height: 9.5rem;
 }
 
 .connectext {
@@ -400,7 +400,7 @@ color: oklch(74% 0.238 322.16);
   margin-bottom: 0;
   /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   color:rgb(220, 232, 239);
+   color:rgb(228, 224, 228);
    font-size: 1.3rem;
   border: 1px solid white;
 

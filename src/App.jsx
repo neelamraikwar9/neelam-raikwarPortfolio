@@ -40,7 +40,7 @@ function App() {
 
       <div className="wholeContainer">
         <div className="introCon">
-          <p className="name">Hi, I am Neelam Raikwar</p>
+          <p className="name">Hello, I am Neelam Raikwar</p>
           <h1 className="role">
             The <span>Full Stack Developer</span>
           </h1>
