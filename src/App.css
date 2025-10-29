@@ -46,7 +46,7 @@
   display: flex;
   align-items: flex-end;
   border: 1px solid pink;
-  margin: 0rem 4rem;
+  margin: 0rem 3rem;
   margin-bottom: 1rem;
 }
 
@@ -184,7 +184,7 @@ color: oklch(74% 0.238 322.16);
 
 
 .projectBox {
-  border: 1px solid rgb(58, 58, 85);
+  border: 2px solid rgb(59, 58, 86);
   ;
   width: 20rem;
   /* height: 68rem;  */
@@ -218,7 +218,7 @@ color: oklch(74% 0.238 322.16);
   padding: 0.7rem;
   border-radius: 0.8rem;
   font-size: 0.9rem;
-  background-color: rgb(44, 43, 41);
+  background-color: rgb(52, 49, 54);
   border-color: none;
   font-weight: bolder;
 }
@@ -390,10 +390,10 @@ color: oklch(74% 0.238 322.16);
 .connectContainer {
   display: flex;
   flex-direction: column;
-  border: 1px solid  oklch(28.305% 0.06655 283.744);
+  border: 2px solid  rgb(59, 58, 86);
   width: 25rem;
   height: 9.5rem;
-  background-color: oklch(28.305% 0.06655 283.744);
+  /* background-color: oklch(28.305% 0.06655 283.744); */
 }
 
 .connectext {
