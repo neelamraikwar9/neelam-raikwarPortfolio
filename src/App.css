@@ -46,7 +46,7 @@
   display: flex;
   align-items: flex-end;
   border: 1px solid pink;
-  margin: 0rem 5rem;
+  margin: 0rem 4rem;
   margin-bottom: 1rem;
 }
 
@@ -350,7 +350,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .connectBoxes {
-  border: 1px solid ghostwhite;
+  /* border: 1px solid ghostwhite; */
   width: 5rem;
   height: 6rem;
   display: flex;
@@ -364,7 +364,7 @@ color: oklch(74% 0.238 322.16);
 .connHeadText {
   font-size: 2rem;
   margin-top: 1rem;
-  border: 1px solid ghostwhite;
+  /* border: 1px solid ghostwhite; */
   padding-top: 2rem;
 
 }
@@ -390,9 +390,10 @@ color: oklch(74% 0.238 322.16);
 .connectContainer {
   display: flex;
   flex-direction: column;
-  border: 1px solid rgb(174, 22, 22);
+  border: 1px solid  oklch(28.305% 0.06655 283.744);
   width: 25rem;
   height: 9.5rem;
+  background-color: oklch(28.305% 0.06655 283.744);
 }
 
 .connectext {
@@ -402,7 +403,7 @@ color: oklch(74% 0.238 322.16);
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    color:rgb(228, 224, 228);
    font-size: 1.3rem;
-  border: 1px solid white;
+  /* border: 1px solid white; */
 
 
 }
@@ -419,7 +420,7 @@ color: oklch(74% 0.238 322.16);
   flex-direction: column;
   /* border: 1px solid rgb(83, 243, 58); */
   padding: 2rem 5rem;
-  font-size: 1.7rem;
+  font-size: 1.3rem;
 }
 
 hr {
