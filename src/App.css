@@ -3,20 +3,22 @@
   padding: 0
 }
 
-.mainContainer {
+/* .mainContainer {
   border: 1px solid yellow;
 
 
-}
+} */
 
 .navContainer {
   display: flex;
-  border: 1px solid yellow;
+  /* border: 1px solid yellow; */
+  height: 6rem;
   justify-content: space-around;
   position: fixed;
   width: 79rem;
   background-color: oklch(23.796% 0.08037 281.459);
   border-radius: 3rem;
+  padding-bottom: 0;
 
 
 }
@@ -26,7 +28,7 @@
   display: flex;
   width: 25rem;
   /* height: 10rem; */
-  border: 1px solid orangered;
+  /* border: 1px solid orangered; */
   /* padding: 1rem 0rem; */
   justify-content: center;
   /* color: oklch(65.6% 0.241 354.308); */
@@ -51,14 +53,14 @@
 .ulTContainer {
   display: flex;
   align-items: flex-end;
-  border: 1px solid pink;
+  /* border: 1px solid pink; */
   /* margin: 0rem 1rem; */
   margin-bottom: 1rem;
 }
 
 .liStyl {
   list-style: none;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   padding: 1rem;
   margin-right:2rem;
   
@@ -67,7 +69,7 @@
 
 .tecStack {
   width: 10rem;
-  border: 1px solid green;
+  /* border: 1px solid green; */
 
 }
 
@@ -123,7 +125,7 @@ color: oklch(74% 0.238 322.16);
   padding-bottom: 9rem;
   width: 58rem;
   /* height: 30rem; */
-  border: 1px solid greenyellow;
+  /* border: 1px solid greenyellow; */
 
 
 }
@@ -132,7 +134,7 @@ color: oklch(74% 0.238 322.16);
 .introCon {
   width: 65rem;
   /* height: 10rem; */
-  border: 1px solid burlywood;
+  /* border: 1px solid burlywood; */
   /* padding: 15rem 15rem; */
   padding-bottom: 15rem;
   padding-left: 1rem;
@@ -195,7 +197,7 @@ color: oklch(74% 0.238 322.16);
 
 
 .projectCont {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-top: 4rem;
   width: 66rem;
   /* height: 80rem; */
@@ -227,7 +229,7 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   /* flex-wrap:wrap; */
   gap: 0.9rem;
-  border: 1px solid greenyellow;
+  /* border: 1px solid greenyellow; */
   width: 17rem;
   flex-wrap: wrap;
   /* height: 10rem; */
@@ -255,7 +257,7 @@ color: oklch(74% 0.238 322.16);
   padding: 2rem 0rem;
   display: flex;
   gap: 3rem;
-  border: 1px solid greenyellow;
+  /* border: 1px solid greenyellow; */
   width: 17rem
 
 }
@@ -268,7 +270,7 @@ color: oklch(74% 0.238 322.16);
   font-weight: bolder;
   background-color: rgb(20, 20, 23);
   border-color: rgb(58, 58, 85);
-  border: 1px solid greenyellow;
+  /* border: 1px solid greenyellow; */
   width: 18rem;
 
 }
@@ -291,7 +293,7 @@ color: oklch(74% 0.238 322.16);
 
 .tackStackCon {
   display: flex;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 66rem;
   flex-wrap: wrap;
   padding: 0;
@@ -362,7 +364,7 @@ color: oklch(74% 0.238 322.16);
 
 .connectCon {
   display: flex;
-  border: 1px solid yellow;
+  /* border: 1px solid yellow; */
   /* width: 100rem; */
       width: 66rem;
   height: 25rem;
@@ -443,7 +445,7 @@ color: oklch(74% 0.238 322.16);
 .footerCon {
   display: flex;
   flex-direction: column;
-  border: 1px solid #53f33a;
+  /* border: 1px solid #53f33a; */
   padding-left: 0;
   padding-right: 0;
   padding-bottom: 4rem;
