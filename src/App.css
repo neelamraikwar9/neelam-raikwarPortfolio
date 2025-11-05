@@ -104,9 +104,9 @@ color: oklch(74% 0.238 322.16);
 .wholeContainer {
   padding: 15rem 9rem;
   padding-bottom: 9rem;
-  width: 85rem;
+  width: 58rem;
   /* height: 30rem; */
-  /* border: 1px solid greenyellow; */
+  border: 1px solid greenyellow;
 
 
 }
