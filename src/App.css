@@ -280,8 +280,11 @@ color: oklch(74% 0.238 322.16);
 } */
 
 .btn:hover {
-  background-color:
-    oklch(74% 0.238 322.16);
+  /* background-color:
+    oklch(74% 0.238 322.16); */
+    /* background-color: oklch(71.4% 0.203 305.504); */
+    background-color: oklch(32.801% 0.03553 308.37);
+    border-color: oklch(32.801% 0.03553 308.37);
 
 }
 
