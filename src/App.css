@@ -6,6 +6,7 @@
 .mainContainer {
   border: 1px solid yellow;
 
+
 }
 
 .navContainer {
@@ -102,7 +103,8 @@ color: oklch(74% 0.238 322.16);
 
 .wholeContainer {
   padding: 15rem 9rem;
-  /* width: 85rem; */
+  padding-bottom: 9rem;
+  width: 85rem;
   /* height: 30rem; */
   /* border: 1px solid greenyellow; */
 
@@ -128,6 +130,10 @@ color: oklch(74% 0.238 322.16);
   color: oklch(66.7% 0.295 322.15);
   /* color: oklch(83.3% 0.145 321.434) */
 
+}
+.name span {
+  color:white;
+   
 }
 
 .role {
@@ -341,6 +347,7 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   border: 1px solid yellow;
   /* width: 100rem; */
+      width: 66rem;
   height: 25rem;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -411,16 +418,21 @@ color: oklch(74% 0.238 322.16);
 
 .footContainer {
   display: flex;
-  justify-content: center;
-  margin-bottom: 5rem;
+  margin-left: 9rem;
+  /* justify-content: center; */
+  /* margin-bottom: 5rem; */
 }
 
 .footerCon {
   display: flex;
   flex-direction: column;
-  /* border: 1px solid rgb(83, 243, 58); */
-  padding: 2rem 5rem;
+  border: 1px solid #53f33a;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 4rem;
   font-size: 1.3rem;
+  width: 66rem;
+  align-items: center;
 }
 
 hr {

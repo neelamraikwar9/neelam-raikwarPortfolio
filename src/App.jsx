@@ -40,7 +40,7 @@ function App() {
 
       <div className="wholeContainer">
         <div className="introCon">
-          <p className="name">Hello, I am Neelam Raikwar</p>
+          <p className="name"><span stye={{color: 'white'}}>Hello There,</span> This is Neelam Raikwar</p>
           <h1 className="role">
             The <span>Full Stack Developer</span>
           </h1>
@@ -49,12 +49,12 @@ function App() {
             {" "}
             An enthusiastic full-stack developer creating effective digital
             websites with modern technologies. Specializing in React,
-            Node.js, and MongoDB to build scalable and user-centered
+            Node.js, and MongoDB to build scalable and user friendly
             applications.
           </p>
 
           <div className="btnContainer">
-            <button className="button">Contact Me</button>
+            <a href="#connect"><button className="button">Contact Me</button></a>
             <button className="button">Resume</button>
           </div>
         </div>
