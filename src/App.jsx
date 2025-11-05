@@ -25,7 +25,7 @@ function App() {
               Projects
             </a>
           </li>
-          <li className="liStyl tecStack">
+          <li className="liStyl">
             <a href="#techStack" className="liTText">
               Tech Stack
             </a>
@@ -40,7 +40,7 @@ function App() {
 
       <div className="wholeContainer">
         <div className="introCon">
-          <p className="name"><span stye={{color: 'white'}}>Hello There,</span> This is Neelam Raikwar</p>
+          <p className="name"><span stye={{color: 'white'}}>Hello,</span> This is Neelam Raikwar</p>
           <h1 className="role">
             The <span>Full Stack Developer</span>
           </h1>
@@ -124,10 +124,14 @@ function App() {
 
                 <div className="demoCodeBtns">
                   <button className="btn">
+                  <a href="https://anvaya-crm-app-azure.vercel.app/" target="_blank">
                     <i class="bi bi-eye"></i>Demo
+                  </a>
                   </button>
                   <button className="btn">
+                  <a href="https://github.com/neelamraikwar9/AnvayaCRMApp" target="_blank">
                     <i class="bi bi-code-slash"></i>Code
+                  </a>
                   </button>
                 </div>
               </div>

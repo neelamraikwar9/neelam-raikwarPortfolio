@@ -94,6 +94,18 @@
 
 }
 
+
+.liStyl a:hover{
+  text-decoration: dotted;
+}
+
+.ulTContainer .liStyl .liTText:hover {
+  text-decoration-line:underline;
+
+}
+
+
+
  
 /* a.liTText, a.liTText:visited, a.liTText:hover, a.liTText:active {
   text-decoration: double;
