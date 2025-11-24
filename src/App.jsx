@@ -50,7 +50,7 @@ function App() {
           <p className="about">
             {" "}
             A full-stack developer skilled in building modern web apps with
-            react, Node.js, and MongoDB. Focused on solving technical challenges
+            React, Node.js, and MongoDB. Focused on solving technical challenges
             and delivering reliable end-to-end solutions.
           </p>
 
