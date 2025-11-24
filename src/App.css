@@ -33,13 +33,14 @@
   justify-content: center;
   /* color: oklch(65.6% 0.241 354.308); */
   /* color: oklch(71.8% 0.202 349.761); */
-  color:  oklch(74.909% 0.17036 347.69);
+  
+   color: oklch(74% 0.238 322.16);
+
 
 }
 
 .portfolio:hover {
-   /* color: oklch(74.909% 0.17036 347.69) */
-   color: oklch(74% 0.238 322.16);
+   color:  oklch(74.909% 0.17036 347.69);
 
 }
 
@@ -80,6 +81,8 @@
 
 .liOText {
   font-size: 4rem;
+  text-decoration: none;
+  
 }
 
 .liTText {
@@ -93,7 +96,6 @@
 .liTText:hover {
     color: oklch(74% 0.238 322.16);
     text-decoration:double;
-
 }
 
 
@@ -103,6 +105,10 @@
 
 .ulTContainer .liStyl .liTText:hover {
   text-decoration-line:underline;
+}
+
+.ulTContainer .liStyl .liTText.active {
+  font-weight: bold;
 
 }
 

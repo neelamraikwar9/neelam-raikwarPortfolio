@@ -21,17 +21,17 @@ function App() {
 
         <ul className="ulTContainer">
           <li className="liStyl">
-            <a href="#projects" className="liTText">
+            <a href="#projects" className="liTText active">
               Projects
             </a>
           </li>
           <li className="liStyl">
-            <a href="#techStack" className="liTText">
+            <a href="#techStack" className="liTText active">
               Tech Stack
             </a>
           </li>
           <li className="liStyl">
-            <a href="#connect" className="liTText">
+            <a href="#connect" className="liTText active">
               Connect
             </a>
           </li>
@@ -58,14 +58,20 @@ function App() {
             <a href="#connect">
               <button className="button">Contact Me</button>
             </a>
-            <button className="button">Resume</button>
+            <a
+              href="https://drive.google.com/file/d/1f7eH1MppKrKScL6PajwnpT6sZtSN5EdH/view"
+              target="_blank"
+            >
+              <button className="button">Resume</button>
+            </a>
+        
           </div>
         </div>
 
         <section id="projects">
           <h1 className="role">Projects</h1>
           <p className="about">
-            Building solutions that solve real-world problems
+            Creating technology with real-world impact
           </p>
           <hr />
 
@@ -79,10 +85,11 @@ function App() {
               <div className="projInfo">
                 <h2>Book Readers</h2>
                 <p className="aboutProj">
-                  A modern e-commerce web for buying books with the feature add
-                  to cart, wishlist and detail page, to filter books by
-                  categories, price, ratings and sorting option with price.
-                  Created with React.js, Bootstrap, MongoDB, Express, Node.js
+                  A modern e-commerce website with features that allow users to
+                  select books and add them to the cart or wishlist. It includes
+                  a detailed product page, multiple filters for refining book
+                  searches, and a price card that updates based on the selected
+                  books and their quantities.
                 </p>
                 <div className="tecBtns">
                   <p>React</p>
@@ -124,10 +131,9 @@ function App() {
               <div className="projInfo">
                 <h2>Anvaya CRM Dashboard</h2>
                 <p className="aboutProj">
-                  A CRM app to manage Leads with Sales Agent. It provide a best
-                  user performance. It has a feature to track leads by statuses
-                  and it provides add new lead and sales agents with the edit
-                  leads option and the comments.
+                  This app is designed and implemented as a full-stack CRM
+                  dashboard for managing leads and sales agents. It also uses
+                  Chart.js to provide visual insights into lead progress...
                 </p>
                 <div className="tecBtns">
                   <p>React</p>
