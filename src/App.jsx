@@ -287,7 +287,7 @@ function App() {
               </div>
               <div>
                 <h3 className="connectext">
-                  <a href="neelam.raikwar.234303@gmail.com">
+                  <a href="mailto:neelam.raikwar.234303@gmail.com">
                     neelam.raik9@gmail.com
                   </a>
                 </h3>
