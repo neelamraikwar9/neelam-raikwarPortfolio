@@ -4,6 +4,7 @@ import "devicon/devicon.min.css";
 
 function App() {
   return (
+    <>
     <main className="mainContainer">
       <nav className="navContainer">
         {/* <ul className="ulOContainer"> */}
@@ -370,8 +371,9 @@ function App() {
           </div>
         </section>
       </div>
+    </main>
 
-      <footer className="footContainer">
+    <footer className="footContainer">
         <div className="footerCon">
           <p>&copy; 2025 Neelam Raikwar • All right reserved</p>
           <p>
@@ -380,7 +382,7 @@ function App() {
           <p>Learning full stack development at neog.camp🩷</p>
         </div>
       </footer>
-    </main>
+      </>
   );
 }
 
