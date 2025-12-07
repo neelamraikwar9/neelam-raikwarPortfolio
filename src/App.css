@@ -203,7 +203,7 @@ color: oklch(74% 0.238 322.16);
 
 
 .projectCont {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-top: 4rem;
   width: 66rem;
   /* height: 80rem; */
@@ -447,11 +447,9 @@ color: oklch(74% 0.238 322.16);
 .footContainer {
   display: flex;
   justify-content: center;
-  border: 1px solid green; 
+  /* border: 1px solid green;  */
   width: 75rem;
-  /* margin-left: 9rem; */
-  /* justify-content: center; */
-  /* margin-bottom: 5rem; */
+  
 }
 
 .footerCon {
