@@ -59,7 +59,7 @@ function App() {
               <button className="button">Contact Me</button>
             </a>
             <a
-              href="https://drive.google.com/file/d/1f7eH1MppKrKScL6PajwnpT6sZtSN5EdH/view"
+              href="https://drive.google.com/file/d/1LFZyE5G5V65s3oJYPdb9h-Ij4e-RDmAw/view?usp=sharing"
               target="_blank"
             >
               <button className="button">Resume</button>
