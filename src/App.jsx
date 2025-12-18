@@ -77,6 +77,50 @@ function App() {
           <hr />
 
           <div className="projectCont">
+
+          <div className="projectBox">
+              <img
+                src="https://res.cloudinary.com/dltfnhclh/image/upload/v1766084304/Screenshot_2025-12-18_201958_euyzbu.png"
+                alt="Book Readers App"
+                className="img"
+              />
+              <div className="projInfo">
+                <h2>Learn 'N' Fun</h2>
+                <p className="aboutProj">
+                  Developed a full‑stack web application for the LNF community that enables learners to join the community by submitting a registration form.
+                </p>
+                <div className="tecBtns">
+                  <p>React</p>
+                  <p>CSS</p>
+                  <p>JavaScript</p>
+                  <p>Express</p>
+                  <p>Node.js</p>
+                  <p>MongoDB</p>
+                </div>
+
+                <div className="demoCodeBtns">
+                  <button className="btn">
+                    <a
+                      href="https://learn-n-fun-nine.vercel.app/"
+                      target="_blank"
+                    >
+                      <i class="bi bi-eye"></i>Demo
+                    </a>
+                  </button>
+                  <button className="btn" style={{ width: "rem" }}>
+                    <a
+                      href="https://github.com/neelamraikwar9/LearnNFun"
+                      target="_blank"
+                    >
+                      <i class="bi bi-code-slash"></i>
+                    </a>
+                    Code
+                  </button>
+                </div>
+              </div>
+            </div>
+
+
             <div className="projectBox">
               <img
                 src="https://res.cloudinary.com/dltfnhclh/image/upload/v1761305967/Screenshot_2025-10-24_170716_vabueg.png"
