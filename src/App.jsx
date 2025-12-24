@@ -2,24 +2,20 @@ import "./App.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import "devicon/devicon.min.css";
 
+
+
 function App() {
   return (
     <>
     <main className="mainContainer">
       <nav className="navContainer">
-        {/* <ul className="ulOContainer"> */}
-        {/* <li className="liStyl">
-            <a href="" className="liO1Text">
-              Neelam Raikwar
-            </a>
-          </li> */}
+  
         <li className="liStyl">
           <a href="" className="liOText portfolio">
             Portfolio
           </a>
         </li>
-        {/* </ul> */}
-
+      
         <ul className="ulTContainer">
           <li className="liStyl">
             <a href="#projects" className="liTText active">
@@ -104,7 +100,7 @@ function App() {
                       href="https://learn-n-fun-nine.vercel.app/"
                       target="_blank"
                     >
-                      <i class="bi bi-eye"></i>Demo
+                      <i className="bi bi-eye"></i>Demo
                     </a>
                   </button>
                   <button className="btn" style={{ width: "rem" }}>
@@ -112,7 +108,7 @@ function App() {
                       href="https://github.com/neelamraikwar9/LearnNFun"
                       target="_blank"
                     >
-                      <i class="bi bi-code-slash"></i>
+                      <i className="bi bi-code-slash"></i>
                     </a>
                     Code
                   </button>
@@ -159,7 +155,7 @@ function App() {
                       href="https://github.com/neelamraikwar9/myBookLoversShop"
                       target="_blank"
                     >
-                      <i class="bi bi-code-slash"></i>
+                      <i className="bi bi-code-slash"></i>
                     </a>
                     Code
                   </button>
@@ -196,7 +192,8 @@ function App() {
                       href="https://anvaya-crm-app-azure.vercel.app/"
                       target="_blank"
                     >
-                      <i class="bi bi-eye"></i>Demo
+                      <i className="b
+                      i bi-eye"></i>Demo
                     </a>
                   </button>
                   <button className="btn">
@@ -204,7 +201,7 @@ function App() {
                       href="https://github.com/neelamraikwar9/AnvayaCRMApp"
                       target="_blank"
                     >
-                      <i class="bi bi-code-slash"></i>Code
+                      <i className="bi bi-code-slash"></i>Code
                     </a>
                   </button>
                 </div>
@@ -314,7 +311,7 @@ function App() {
         </section>
 
         <section id="connect">
-          <h1 className="role">Connect</h1>
+          <h1 className="role">Connect</h1>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
           <p className="about">
             Let's collaborate on something amazing together
           </p>
@@ -347,7 +344,7 @@ function App() {
                   style={{ marginTop: "2rem" }}
                 >
                   <i
-                    class="devicon-github-original"
+                    className="devicon-github-original"
                     style={{
                       color: "#f173c7ff",
                       fontSize: "4rem",
