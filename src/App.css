@@ -205,7 +205,7 @@ color: oklch(74% 0.238 322.16);
 
 
 .projectCont {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-top: 4rem;
   width: 66rem;
   /* height: 80rem; */
@@ -217,15 +217,15 @@ color: oklch(74% 0.238 322.16);
 
 
 .projectBox {
-  border: 2px solid rgb(59, 58, 86);
-  border: 2px solid rgb(230, 251, 36);
+  border: 1px solid rgb(59, 58, 86);
+  /* border: 2px solid rgb(230, 251, 36); */
   width: 20rem;
   /* height: 68rem;  */
   border-radius: 0.5rem;
 }
 
 .projectBox:hover {
-  border: 2px solid blueviolet;
+  border:  2px solid blueviolet;
 }
 
 
@@ -429,14 +429,14 @@ color: oklch(74% 0.238 322.16);
 .connectContainer {
   display: flex;
   flex-direction: column;
-  border: 2px solid rgb(59, 58, 86);
+  border: 1px solid rgb(59, 58, 86);
   width: 25rem;
   height: 9.5rem;
   /* background-color: oklch(28.305% 0.06655 283.744); */
 }
 
 .connectContainer:hover{
-  border: 0.2rem solid oklch(43.804% 0.14544 305.806);
+  border: 2px solid blueviolet;
 }
 
 .connectext {
