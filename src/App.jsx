@@ -10,9 +10,9 @@ function App() {
     <main className="mainContainer">
       <nav className="navContainer">
   
-        <li className="liStyl">
-          <a href="" className="liOText portfolio">
-            Portfolio
+        <li className="liStyl ">
+          <a className="nameText portfolioName">
+            Neelam Raikwar
           </a>
         </li>
       
