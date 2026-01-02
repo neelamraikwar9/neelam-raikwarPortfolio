@@ -379,12 +379,10 @@ color: oklch(74% 0.238 322.16);
   /* border: 1px solid yellow; */
   /* width: 100rem; */
   width: 66rem;
-  height: 25rem;
+  height: 35rem;
   flex-wrap: wrap;
   justify-content: space-between;
   /* border: 1px solid ghostwhite; */
-
-
 }
 
 .connectBoxes {
