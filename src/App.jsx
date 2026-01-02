@@ -390,6 +390,7 @@ function App() {
               <div className="connectBoxes">
                 <a
                   href="https://x.com/Neelam92004"
+                  target="_blank"
                   alt="Twitter"
                   style={{ marginTop: "2rem" }}
                 >
