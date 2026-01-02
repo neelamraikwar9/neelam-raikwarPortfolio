@@ -16,7 +16,7 @@
   justify-content: space-around;
   position: fixed;
   /* width: 79rem; */
-  width: 80%;
+  width: 100%;
   background-color: oklch(23.796% 0.08037 281.459);
   border-radius: 3rem;
   padding-bottom: 0;
@@ -85,8 +85,6 @@
   font-size: 3.2rem;
   text-decoration: none;
   /* border: 1px solid gold;  */
-
-
 }
 
 .liTText {
