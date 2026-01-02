@@ -453,7 +453,8 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   justify-content: center;
   /* border: 1px solid green;  */
-  width: 75rem;
+  /* width: 75rem; */
+  width: 100%;
 
 }
 
