@@ -449,14 +449,14 @@ color: oklch(74% 0.238 322.16);
 }
 
 
-.footContainer {
-  display: flex;
-  justify-content: center;
+/* .footContainer { */
+  /* display: flex; */
+  /* justify-content: center; */
   /* border: 1px solid green;  */
   /* width: 75rem; */
-  width: 100%;
+  /* width: 100%; */
 
-}
+/* } */
 
 .footerCon {
   display: flex;
@@ -468,6 +468,7 @@ color: oklch(74% 0.238 322.16);
   font-size: 1.3rem;
   /* width: 66rem; */
   width: 100rem;
+
   align-items: center;
 }
 
