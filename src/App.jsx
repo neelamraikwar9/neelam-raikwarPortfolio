@@ -449,7 +449,7 @@ function App() {
         </div>
       </main>
 
-      <footer className="footContainer">
+      <footer className="footContainer, wholeContainer">
         <div className="footerCon">
           <p>
             &copy; 2026 Neelam Raikwar - Built with using CSS3 and React.js.
