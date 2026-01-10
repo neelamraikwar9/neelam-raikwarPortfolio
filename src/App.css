@@ -461,13 +461,14 @@ color: oklch(74% 0.238 322.16);
 .footerCon {
   display: flex;
   flex-direction: column;
-  border: 1px solid #53f33a;
+  border: 1px solid #f3503a;
   /* padding-left: 0; */
   /* padding-right: 0; */
   padding-bottom: 4rem;
   font-size: 1.3rem;
   /* width: 66rem; */
-  width: 83rem;
+  /* width: 78.2rem; */
+  width: 99.6%;
 
   align-items: center;
 }
