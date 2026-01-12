@@ -224,7 +224,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .projectBox:hover {
-  border:  1.5px solid blueviolet;
+  border: 1.5px solid blueviolet;
 }
 
 
@@ -432,7 +432,7 @@ color: oklch(74% 0.238 322.16);
   /* background-color: oklch(28.305% 0.06655 283.744); */
 }
 
-.connectContainer:hover{
+.connectContainer:hover {
   border: 2px solid blueviolet;
 }
 
@@ -452,24 +452,25 @@ color: oklch(74% 0.238 322.16);
   display: flex;
   flex-wrap: wrap;
   width: 66rem;
+  padding-left: 9rem;
   /* width: 100%; */
-   justify-content: center;
-  /* align-items: center;  */
-  
+  justify-content: center;
+
+
 }
 
 /* .footerCon { */
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* margin: 0;  */
-  /* font-size: 1.5rem; */
+/* display: flex; */
+/* flex-direction: column; */
+/* margin: 0;  */
+/* font-size: 1.5rem; */
 
-  /* width: 66rem; */
-  /* width: 78.2rem; */
-  /* width: 99.6%; */
+/* width: 66rem; */
+/* width: 78.2rem; */
+/* width: 99.6%; */
 
-  /* width: 100%; */
-  /* align-items: center; */
+/* width: 100%; */
+/* align-items: center; */
 /* } */
 
 hr {

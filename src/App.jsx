@@ -318,8 +318,11 @@ function App() {
             <div className="connectCon">
               <div className="connectContainer">
                 <div className="connectBoxes">
-                  <a href="mailto:neelam.raikwar.234303@gmail.com" target="_blank"
-                    style={{ marginTop: "2rem" }}>
+                  <a
+                    href="mailto:neelam.raikwar.234303@gmail.com"
+                    target="_blank"
+                    style={{ marginTop: "2rem" }}
+                  >
                     <i
                       className="bi bi-envelope-at-fill hoverStyl"
                       style={{
@@ -329,7 +332,7 @@ function App() {
                         color: "#f173c7ff",
                         // border: "1px solid red",
                         paddingLeft: "1rem",
-                        padding: '0',
+                        padding: "0",
                       }}
                     ></i>
                   </a>
@@ -409,14 +412,15 @@ function App() {
                         fontSize: "3.5rem",
                         // border: "1px solid red",
                         margin: "2rem",
-                        
                       }}
                     ></i>
                   </a>
 
                   <h2 className="connHeadText">Twitter</h2>
                 </div>
-                <h3 className="connectext" style={{margin: ""}}>Follow on Twitter</h3>
+                <h3 className="connectext" style={{ margin: "" }}>
+                  Follow on Twitter
+                </h3>
               </div>
 
               <div className="connectContainer">
@@ -428,28 +432,30 @@ function App() {
                     style={{ marginTop: "2rem" }}
                   >
                     <p
-                      
                       style={{
                         color: "#f173c7ff",
                         fontSize: "3rem",
                         // border: "1px solid red",
                         margin: "2rem",
-                        textDecoration: "none"
-                        
+                        textDecoration: "none",
                       }}
-                    >Medium</p>
+                    >
+                      Medium
+                    </p>
                   </a>
 
                   <h2 className="connHeadText"></h2>
                 </div>
-                <h3 className="connectext" style={{marginTop: "2rem"}}>Follow on Medium</h3>
+                <h3 className="connectext" style={{ marginTop: "2rem" }}>
+                  Follow on Medium
+                </h3>
               </div>
             </div>
           </section>
         </div>
       </main>
 
-      <footer className="wholeContainer, footContainer">
+      <footer className="footContainer">
         <div className="footerCon">
           <p>
             &copy; 2026 Neelam Raikwar - Built with using CSS3 and React.js.
