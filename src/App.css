@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@300;400;600&family=Poppins:wght@400;600;700&display=swap");
+
 #root {
   margin: 0 auto;
   padding: 0
@@ -5,8 +7,6 @@
 
 /* .mainContainer {
   border: 1px solid yellow;
-
-
 } */
 
 .navContainer {
@@ -224,7 +224,7 @@ color: oklch(74% 0.238 322.16);
 }
 
 .projectBox:hover {
-  border:  2px solid blueviolet;
+  border:  1.5px solid blueviolet;
 }
 
 
@@ -345,7 +345,7 @@ color: oklch(74% 0.238 322.16);
   margin-top: 0.3rem;
   font-size: 1.7rem;
   font-weight: 400;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 
@@ -439,39 +439,38 @@ color: oklch(74% 0.238 322.16);
 .connectext {
   margin-left: 2rem;
   margin-bottom: 0;
-  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: rgb(228, 224, 228);
+  /* color: rgb(228, 224, 228); */
   font-size: 1.3rem;
   /* border: 1px solid white; */
+  font-family: 'JetBrains Mono', monospace;
 
 
 }
 
 
-/* .footContainer { */
-  /* display: flex; */
-  /* justify-content: center; */
-  /* border: 1px solid green;  */
-  /* width: 75rem; */
-  /* width: 100%; */
-
-/* } */
-
-.footerCon {
+.footContainer {
   display: flex;
-  flex-direction: column;
-  /* border: 1px solid #f3503a; */
-  /* padding-left: 0; */
-  /* padding-right: 0; */
-  padding-bottom: 4rem;
-  font-size: 1.3rem;
+  flex-wrap: wrap;
+  width: 66rem;
+  /* width: 100%; */
+   justify-content: center;
+  /* align-items: center;  */
+  
+}
+
+/* .footerCon { */
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* margin: 0;  */
+  /* font-size: 1.5rem; */
+
   /* width: 66rem; */
   /* width: 78.2rem; */
   /* width: 99.6%; */
-  width: 100%;
-  align-items: center;
-}
+
+  /* width: 100%; */
+  /* align-items: center; */
+/* } */
 
 hr {
   margin-bottom: 7rem;
