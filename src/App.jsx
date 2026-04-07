@@ -52,7 +52,7 @@ function App() {
                 <button className="button">Contact Me</button>
               </a>
               <a
-                href="https://drive.google.com/file/d/1LFZyE5G5V65s3oJYPdb9h-Ij4e-RDmAw/view?usp=sharing"
+                href="https://drive.google.com/file/d/1w5ysVP46FLmnishnijpwlv7HHuxraxW3/view?usp=sharing"
                 target="_blank"
               >
                 <button className="button">Resume</button>
