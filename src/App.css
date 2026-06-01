@@ -104,8 +104,6 @@
   padding-bottom: 15rem;
   padding-left: 1rem;
   padding-right: 1rem;
-
-
 }
 
 .name {
@@ -124,12 +122,9 @@
 .role {
   font-size: 3rem;
   margin: 0;
-  /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .role span {
-  /* color:oklch(74% 0.238 322.16); */
-  /* color:oklch(71.8% 0.202 349.761);    */
   color: oklch(82.3% 0.12 346.018)
 }
 
@@ -156,7 +151,6 @@
 
 .button:hover {
   background-color: oklch(71.8% 0.202 349.761);
-  /* background-color:oklch(66.7% 0.295 322.15) */
 
 }
 
@@ -166,13 +160,10 @@
   /* border: 1px solid red; */
   margin-top: 4rem;
   width: 66rem;
-  /* height: 80rem; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   padding-bottom: 25rem;
-  /* padding: 2rem; */
-
 }
 
 
@@ -180,7 +171,6 @@
   border: 1px solid rgb(59, 58, 86);
   /* border: 2px solid rgb(230, 251, 36); */
   width: 20rem;
-  /* height: 68rem;  */
   border-radius: 0.5rem;
   margin-bottom: 3rem;
 }
@@ -188,8 +178,6 @@
 .projectBox:hover {
   border: 1.5px solid blueviolet;
 }
-
-
 
 
 .img {
@@ -200,12 +188,10 @@
 
 .tecBtns {
   display: flex;
-  /* flex-wrap:wrap; */
   gap: 0.9rem;
   /* border: 1px solid greenyellow; */
   width: 17rem;
   flex-wrap: wrap;
-  /* height: 10rem; */
 }
 
 .aboutProj {
@@ -253,10 +239,7 @@
 } */
 
 .btn:hover {
-
   background-color: oklch(43.804% 0.14544 305.806);
-
-
 }
 
 .demoCodeBtns .btn i {
@@ -286,17 +269,13 @@
   /* border: 1px solid pink; */
   padding: 1rem 12rem;
   padding-left: 0;
-
   padding-bottom: 0;
-
   gap: 1rem;
   width: 5rem;
   height: 4rem;
 }
 
 .icon {
-  /* width: 3rem;
-  height: 3rem; */
   width: 48px;
   height: 48px;
   /* border: 1px solid orange; */
@@ -339,7 +318,7 @@
 .connectCon {
   display: flex;
   /* border: 1px solid yellow; */
-  /* width: 100rem; */
+
   width: 66rem;
   height: 35rem;
   flex-wrap: wrap;
@@ -353,9 +332,6 @@
   height: 6rem;
   display: flex;
   flex-direction: row;
-
-
-
 }
 
 
@@ -366,17 +342,6 @@
   padding-top: 2rem;
 
 }
-
-
-/* .connText {
-  border: 1px solid ghostwhite;
-  margin: 6rem 2rem;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0;
-  width: 8888886rem;
- border: 1px solid greenyellow; 
-} */
 
 
 .connectContainer {
@@ -394,12 +359,9 @@
 .connectext {
   margin-left: 2rem;
   margin-bottom: 0;
-  /* color: rgb(228, 224, 228); */
   font-size: 1.3rem;
   /* border: 1px solid white; */
   font-family: 'JetBrains Mono', monospace;
-
-
 }
 
 
@@ -408,25 +370,11 @@
   flex-wrap: wrap;
   width: 66rem;
   padding-left: 9rem;
-  /* width: 100%; */
   justify-content: center;
 
 
 }
 
-/* .footerCon { */
-/* display: flex; */
-/* flex-direction: column; */
-/* margin: 0;  */
-/* font-size: 1.5rem; */
-
-/* width: 66rem; */
-/* width: 78.2rem; */
-/* width: 99.6%; */
-
-/* width: 100%; */
-/* align-items: center; */
-/* } */
 
 hr {
   margin-bottom: 7rem;
@@ -437,5 +385,4 @@ hr {
   border-color: oklch(74% 0.238 322.16);
   height: 0.1rem;
   background-color: oklch(74% 0.238 322.16);
-
 }
