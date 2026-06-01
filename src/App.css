@@ -209,8 +209,10 @@ color: oklch(74% 0.238 322.16);
   width: 66rem;
   /* height: 80rem; */
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   padding-bottom: 25rem;
+  /* padding: 2rem; */
 
 }
 
@@ -221,6 +223,7 @@ color: oklch(74% 0.238 322.16);
   width: 20rem;
   /* height: 68rem;  */
   border-radius: 0.5rem;
+  margin-bottom: 3rem; 
 }
 
 .projectBox:hover {
@@ -391,9 +394,9 @@ color: oklch(74% 0.238 322.16);
   height: 6rem;
   display: flex;
   flex-direction: row;
-  /* gap:2rem; */
+ 
 
-  /* padding-right: 20rem; */
+  
 }
 
 
@@ -406,21 +409,15 @@ color: oklch(74% 0.238 322.16);
 }
 
 
-.connText {
+/* .connText {
   border: 1px solid ghostwhite;
   margin: 6rem 2rem;
   margin-bottom: 0;
   margin-left: 0;
   margin-right: 0;
   width: 8888886rem;
-  /* padding: 0rem 1rem; */
-
-
-
-  /* display: flex; */
-  /* justify-content: end;
-  align-items:baseline */
-}
+ border: 1px solid greenyellow; 
+} */
 
 
 .connectContainer {
@@ -428,8 +425,7 @@ color: oklch(74% 0.238 322.16);
   flex-direction: column;
   border: 1px solid rgb(59, 58, 86);
   width: 25rem;
-  height: 9.5rem;
-  /* background-color: oklch(28.305% 0.06655 283.744); */
+  height: 10rem;
 }
 
 .connectContainer:hover {

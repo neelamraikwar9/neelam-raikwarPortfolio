@@ -68,6 +68,51 @@ function App() {
             <div className="projectCont">
               <div className="projectBox">
                 <img
+                  src="https://res.cloudinary.com/dltfnhclh/image/upload/v1780293329/Screenshot_2026-06-01_111910_bflbjo.png"
+                  alt="GalleryPick App"
+                  className="img"
+                />
+                <div className="projInfo">
+                  <h2>Gallery Pick</h2>
+                  <p className="aboutProj">
+                    A Gallery App where users can add images and manage their
+                    images in an album. It includes Favorite Image and Share
+                    Album functionality, with Update Image and Delete Image
+                    functionalities.
+                  </p>
+                  <div className="tecBtns">
+                    <p>React</p>
+                    <p>O Auth</p>
+                    <p>CSS</p>
+                    <p>JavaScript</p>
+                    <p>Express</p>
+                    <p>Node.js</p>
+                    <p>MongoDB</p>
+                  </div>
+
+                  <div className="demoCodeBtns">
+                    <button className="btn">
+                      <a
+                        href="https://gallery-pick-app.vercel.app/signin"
+                        target="_blank"
+                      >
+                        <i className="bi bi-eye"></i>Demo
+                      </a>
+                    </button>
+                    <button className="btn">
+                      <a
+                        href="https://github.com/neelamraikwar9/galleryPickApp"
+                        target="_blank"
+                      >
+                        <i className="bi bi-code-slash"></i>Code
+                      </a>
+                    </button>
+                  </div>
+                </div>
+              </div>
+
+              <div className="projectBox">
+                <img
                   src="https://res.cloudinary.com/dltfnhclh/image/upload/v1766084304/Screenshot_2025-12-18_201958_euyzbu.png"
                   alt="Book Readers App"
                   className="img"
